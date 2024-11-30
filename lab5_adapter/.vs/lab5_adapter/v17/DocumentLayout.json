@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|c:\\users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|solutionrelative:lab5_adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|c:\\users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\activitynotifieradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|solutionrelative:lab5_adapter\\activitynotifieradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|c:\\users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\iactivitynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|solutionrelative:lab5_adapter\\iactivitynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|c:\\users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\weatheralertsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019B0DF8-710D-4E36-A32D-FE241B325C75}|lab5_adapter\\lab5_adapter.csproj|solutionrelative:lab5_adapter\\weatheralertsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivityNotifierAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\ActivityNotifierAdapter.cs",
+              "RelativeDocumentMoniker": "lab5_adapter\\ActivityNotifierAdapter.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\ActivityNotifierAdapter.cs",
+              "RelativeToolTip": "lab5_adapter\\ActivityNotifierAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:46:04.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IActivityNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\IActivityNotifier.cs",
+              "RelativeDocumentMoniker": "lab5_adapter\\IActivityNotifier.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\IActivityNotifier.cs",
+              "RelativeToolTip": "lab5_adapter\\IActivityNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:44:11.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\Program.cs",
+              "RelativeDocumentMoniker": "lab5_adapter\\Program.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\Program.cs",
+              "RelativeToolTip": "lab5_adapter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:31:27.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherAlertSystem.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\WeatherAlertSystem.cs",
+              "RelativeDocumentMoniker": "lab5_adapter\\WeatherAlertSystem.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_adapter\\lab5_adapter\\WeatherAlertSystem.cs",
+              "RelativeToolTip": "lab5_adapter\\WeatherAlertSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:43:01.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

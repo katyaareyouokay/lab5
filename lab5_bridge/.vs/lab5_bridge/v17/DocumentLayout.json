@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|c:\\users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|solutionrelative:lab5_bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|c:\\users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\incidentnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|solutionrelative:lab5_bridge\\incidentnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|c:\\users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\weathernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|solutionrelative:lab5_bridge\\weathernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|c:\\users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|solutionrelative:lab5_bridge\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|c:\\users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|solutionrelative:lab5_bridge\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|c:\\users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|solutionrelative:lab5_bridge\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|c:\\users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22862CA4-F931-4D37-AEE2-4D2DDC6E6A32}|lab5_bridge\\lab5_bridge.csproj|solutionrelative:lab5_bridge\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherNotification.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\WeatherNotification.cs",
+              "RelativeDocumentMoniker": "lab5_bridge\\WeatherNotification.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\WeatherNotification.cs",
+              "RelativeToolTip": "lab5_bridge\\WeatherNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:44:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\Notification.cs",
+              "RelativeDocumentMoniker": "lab5_bridge\\Notification.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\Notification.cs",
+              "RelativeToolTip": "lab5_bridge\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:43:07.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "lab5_bridge\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\EmailNotifier.cs",
+              "RelativeToolTip": "lab5_bridge\\EmailNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:20:16.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SMSNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\SMSNotifier.cs",
+              "RelativeDocumentMoniker": "lab5_bridge\\SMSNotifier.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\SMSNotifier.cs",
+              "RelativeToolTip": "lab5_bridge\\SMSNotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:19:20.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\Program.cs",
+              "RelativeDocumentMoniker": "lab5_bridge\\Program.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\Program.cs",
+              "RelativeToolTip": "lab5_bridge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:10:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IncidentNotification.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\IncidentNotification.cs",
+              "RelativeDocumentMoniker": "lab5_bridge\\IncidentNotification.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\IncidentNotification.cs",
+              "RelativeToolTip": "lab5_bridge\\IncidentNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:46:07.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\INotifier.cs",
+              "RelativeDocumentMoniker": "lab5_bridge\\INotifier.cs",
+              "ToolTip": "C:\\Users\\4koa\\source\\repos\\lab5_bridge\\lab5_bridge\\INotifier.cs",
+              "RelativeToolTip": "lab5_bridge\\INotifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T09:14:37.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

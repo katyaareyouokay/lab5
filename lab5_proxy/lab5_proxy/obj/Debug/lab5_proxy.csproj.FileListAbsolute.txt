@@ -1,0 +1,7 @@
+C:\Users\4koa\source\repos\lab5_proxy\lab5_proxy\bin\Debug\lab5_proxy.exe.config
+C:\Users\4koa\source\repos\lab5_proxy\lab5_proxy\bin\Debug\lab5_proxy.exe
+C:\Users\4koa\source\repos\lab5_proxy\lab5_proxy\bin\Debug\lab5_proxy.pdb
+C:\Users\4koa\source\repos\lab5_proxy\lab5_proxy\obj\Debug\lab5_proxy.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\lab5_proxy\lab5_proxy\obj\Debug\lab5_proxy.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\lab5_proxy\lab5_proxy\obj\Debug\lab5_proxy.exe
+C:\Users\4koa\source\repos\lab5_proxy\lab5_proxy\obj\Debug\lab5_proxy.pdb

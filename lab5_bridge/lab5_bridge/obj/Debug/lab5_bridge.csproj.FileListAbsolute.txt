@@ -1,0 +1,7 @@
+C:\Users\4koa\source\repos\lab5_bridge\lab5_bridge\bin\Debug\lab5_bridge.exe.config
+C:\Users\4koa\source\repos\lab5_bridge\lab5_bridge\bin\Debug\lab5_bridge.exe
+C:\Users\4koa\source\repos\lab5_bridge\lab5_bridge\bin\Debug\lab5_bridge.pdb
+C:\Users\4koa\source\repos\lab5_bridge\lab5_bridge\obj\Debug\lab5_bridge.csproj.AssemblyReference.cache
+C:\Users\4koa\source\repos\lab5_bridge\lab5_bridge\obj\Debug\lab5_bridge.csproj.CoreCompileInputs.cache
+C:\Users\4koa\source\repos\lab5_bridge\lab5_bridge\obj\Debug\lab5_bridge.exe
+C:\Users\4koa\source\repos\lab5_bridge\lab5_bridge\obj\Debug\lab5_bridge.pdb
